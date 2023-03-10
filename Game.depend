@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1678460869 source:e:\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_untils.h"
+	"BaseObject.h"
+
+1678460929 e:\game\sdl_untils.h
+	<windows.h>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1678192624 source:e:\game\sdl_untils.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_untils.h"
+
+1678460347 source:e:\game\baseobject.cpp
+	"SDL_untils.h"
+	"BaseObject.h"
+
+1678460624 e:\game\baseobject.h
+
